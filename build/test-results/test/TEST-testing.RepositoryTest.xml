@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testing.RepositoryTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2017-12-04T18:04:30" hostname="DESKTOP-CO2J425" time="0.014">
+  <properties/>
+  <testcase name="getContributors" classname="testing.RepositoryTest" time="0.0"/>
+  <testcase name="addContribution" classname="testing.RepositoryTest" time="0.007"/>
+  <testcase name="setContributors" classname="testing.RepositoryTest" time="0.0"/>
+  <testcase name="getName" classname="testing.RepositoryTest" time="0.0"/>
+  <testcase name="getId" classname="testing.RepositoryTest" time="0.0"/>
+  <testcase name="setId" classname="testing.RepositoryTest" time="0.0"/>
+  <testcase name="setDescription" classname="testing.RepositoryTest" time="0.0"/>
+  <testcase name="setLanguage" classname="testing.RepositoryTest" time="0.0"/>
+  <testcase name="getLanguage" classname="testing.RepositoryTest" time="0.0"/>
+  <testcase name="setOwner" classname="testing.RepositoryTest" time="0.0"/>
+  <testcase name="setStars" classname="testing.RepositoryTest" time="0.0"/>
+  <testcase name="getDescription" classname="testing.RepositoryTest" time="0.0"/>
+  <testcase name="getOwner" classname="testing.RepositoryTest" time="0.0"/>
+  <testcase name="getStars" classname="testing.RepositoryTest" time="0.001"/>
+  <testcase name="setName" classname="testing.RepositoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

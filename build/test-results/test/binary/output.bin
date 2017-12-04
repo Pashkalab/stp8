@@ -1,0 +1,525 @@
+
+;***************MOST COMMITTED REPOSITORIES***************
+
+#1
+NAME: mapd-core
+OWNER: mapd
+%DESCRIPTION: The MapD Core database
+LANGUAGE: C++
+NUMBER OF CONTRIBUTIONS: 4912
+USERS WITH MOST COMMITS:
+	---> 2533 by asuhan
+	---> 576 by andrewseidl
+	---> 351 by mapdwei
+	---> 315 by tmostak
+	---> 292 by sstewart2012
+
+#2
+NAME: draft
+OWNER: Azure
+WDESCRIPTION: A tool for developers to create cloud-native applications on Kubernetes.
+LANGUAGE: Go
+NUMBER OF CONTRIBUTIONS: 868
+USERS WITH MOST COMMITS:
+	---> 550 by bacongobbler
+	---> 84 by michelleN
+	---> 40 by mboersma
+	---> 36 by vdice
+	---> 28 by fibonacci1729
+
+#3
+NAME: puppeteer
+OWNER: GoogleChrome
+'DESCRIPTION: Headless Chrome Node API
+LANGUAGE: JavaScript
+NUMBER OF CONTRIBUTIONS: 681
+USERS WITH MOST COMMITS:
+	---> 382 by aslushnikov
+	---> 107 by JoelEinbinder
+	---> 38 by ebidel
+	---> 26 by pavelfeldman
+	---> 20 by vsemozhetbyt
+
+#4
+NAME: nyaa
+OWNER: nyaadevs
++DESCRIPTION: Bittorrent software for cats
+LANGUAGE: Python
+NUMBER OF CONTRIBUTIONS: 529
+USERS WITH MOST COMMITS:
+	---> 144 by TheAMM
+	---> 85 by sharkykh
+	---> 59 by aldacron
+	---> 45 by nyaadev
+	---> 22 by ReimuHakurei
+
+#5
+NAME: wcdb
+OWNER: Tencent
+ODESCRIPTION: WCDB is a cross-platform database framework developed by WeChat.
+LANGUAGE: C
+NUMBER OF CONTRIBUTIONS: 501
+USERS WITH MOST COMMITS:
+	---> 368 by RingoD
+	---> 123 by John-He-928
+	---> 4 by infinnie
+	---> 2 by iOSleep
+	---> 1 by Xwoder
+
+#6
+NAME: butternut
+OWNER: Rich-Harris
+1DESCRIPTION: The fast, future-friendly minifier
+LANGUAGE: JavaScript
+NUMBER OF CONTRIBUTIONS: 318
+USERS WITH MOST COMMITS:
+	---> 304 by Rich-Harris
+	---> 6 by jbt
+	---> 3 by Loilo
+	---> 1 by balthazar
+	---> 1 by etsms
+
+#7
+NAME: SpreadsheetView
+OWNER: kishikawakatsumi
+�DESCRIPTION: Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.
+LANGUAGE: HTML
+NUMBER OF CONTRIBUTIONS: 241
+USERS WITH MOST COMMITS:
+	---> 236 by kishikawakatsumi
+	---> 2 by leoMehlig
+	---> 1 by muescha
+	---> 1 by Nirma
+	---> 1 by wowlocal
+
+#8
+
+NAME: fd
+OWNER: sharkdp
+DDESCRIPTION: A simple, fast and user-friendly alternative to find.
+LANGUAGE: Rust
+NUMBER OF CONTRIBUTIONS: 236
+USERS WITH MOST COMMITS:
+	---> 161 by sharkdp
+	---> 17 by reima
+	---> 14 by iology
+	---> 10 by mmstick
+	---> 5 by matematikaadit
+
+#9
+NAME: bookmark-archiver
+OWNER: pirate
+�DESCRIPTION: рџ—„ Save an archived copy of all websites starred using Pocket/Pinboard/Bookmarks.  Outputs browseable html.
+LANGUAGE: Python
+NUMBER OF CONTRIBUTIONS: 234
+USERS WITH MOST COMMITS:
+	---> 211 by pirate
+	---> 5 by bardisty
+	---> 3 by Miladiir
+	---> 3 by nodiscc
+	---> 2 by ilvar
+
+#10
+NAME: AgentWeb
+OWNER: Justson
+�DESCRIPTION:  AgentWeb ж?ЇеџєдєЋ Android  WebView дёЂдёЄиЅ»й‡Џзє§жµЏи§€е™Ёеє“ пјЊ дЅїз”Ёеѕ€ж–№дѕї пјЊ й›†ж€ђиї›дЅ еє”з”Ё пјЊеЏЄйњЂе‡ иЎЊд»Јз Ѓ гЂ‚
+LANGUAGE: Java
+NUMBER OF CONTRIBUTIONS: 136
+USERS WITH MOST COMMITS:
+	---> 136 by Justson
+9***************MOST STARRED REPOSITORIES***************
+
+#1
+NAME: freeCodeCamp
+OWNER: freeCodeCamp
+sDESCRIPTION: The https://freeCodeCamp.org open source codebase and curriculum. Learn to code and help nonprofits.
+LANGUAGE: JavaScript
+STARS: 291486
+USERS WITH MOST COMMITS:
+	---> 2362 by QuincyLarson
+	---> 1801 by BerkeleyTrue
+	---> 1261 by sahat
+	---> 658 by terakilobyte
+	---> 382 by ltegman
+
+#2
+NAME: bootstrap
+OWNER: twbs
+�DESCRIPTION: The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+LANGUAGE: CSS
+STARS: 118770
+USERS WITH MOST COMMITS:
+	---> 8756 by mdo
+	---> 2763 by cvrebert
+	---> 1185 by fat
+	---> 762 by XhmikosR
+	---> 274 by patrickhlauke
+
+#3
+NAME: free-programming-books
+OWNER: EbookFoundation
+9DESCRIPTION: :books: Freely available programming books
+LANGUAGE: none
+STARS: 98021
+USERS WITH MOST COMMITS:
+	---> 1541 by vhf
+	---> 301 by MHM5000
+	---> 131 by alexanderfefelov
+	---> 106 by esparta
+	---> 69 by ericguirbal
+
+#4
+NAME: react
+OWNER: facebook
+fDESCRIPTION: A declarative, efficient, and flexible JavaScript library for building user interfaces.
+LANGUAGE: JavaScript
+STARS: 82638
+USERS WITH MOST COMMITS:
+	---> 1776 by zpao
+	---> 1220 by sophiebits
+	---> 744 by gaearon
+	---> 616 by sebmarkbage
+	---> 456 by jimfb
+
+#5
+NAME: tensorflow
+OWNER: tensorflow
+ODESCRIPTION: Computation using data flow graphs for scalable machine learning
+LANGUAGE: C++
+STARS: 80347
+USERS WITH MOST COMMITS:
+%	---> 7353 by tensorflower-gardener
+	---> 1023 by vrv
+	---> 949 by caisq
+	---> 853 by benoitsteiner
+	---> 554 by gunan
+
+#6
+NAME: vue
+OWNER: vuejs
+fDESCRIPTION: A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+LANGUAGE: JavaScript
+STARS: 75678
+USERS WITH MOST COMMITS:
+	---> 1938 by yyx990803
+	---> 37 by defcc
+	---> 32 by kazupon
+	---> 27 by Hanks10100
+!	---> 20 by HerringtonDarkholme
+
+#7
+NAME: awesome
+OWNER: sindresorhus
+9DESCRIPTION: :sunglasses: Curated list of awesome lists
+LANGUAGE: none
+STARS: 72796
+USERS WITH MOST COMMITS:
+	---> 256 by sindresorhus
+	---> 24 by davisonio
+	---> 12 by RichardLitt
+	---> 7 by arthurvr
+	---> 6 by AllThingsSmitty
+
+#8
+NAME: You-Dont-Know-JS
+OWNER: getify
+>DESCRIPTION: A book series on JavaScript. @YDKJS on twitter.
+LANGUAGE: none
+STARS: 71500
+USERS WITH MOST COMMITS:
+	---> 1172 by getify
+	---> 17 by machineloop
+	---> 10 by pdawyndt
+	---> 10 by 4thana
+	---> 9 by zackgao
+
+#9
+
+NAME: d3
+OWNER: d3
+hDESCRIPTION: Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+LANGUAGE: JavaScript
+STARS: 70557
+USERS WITH MOST COMMITS:
+	---> 2959 by mbostock
+	---> 776 by jasondavies
+	---> 50 by kitmonisit
+	---> 27 by 27359794
+	---> 11 by larskotthoff
+
+#10
+NAME: oh-my-zsh
+OWNER: robbyrussell
+�DESCRIPTION: A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+LANGUAGE: Shell
+STARS: 62763
+USERS WITH MOST COMMITS:
+	---> 1361 by robbyrussell
+	---> 348 by mcornella
+	---> 83 by apjanke
+	---> 48 by fred-o
+	---> 30 by ncanceill
+9***************MOST STARRED REPOSITORIES***************
+
+#1
+NAME: freeCodeCamp
+OWNER: freeCodeCamp
+sDESCRIPTION: The https://freeCodeCamp.org open source codebase and curriculum. Learn to code and help nonprofits.
+LANGUAGE: JavaScript
+STARS: 291486
+USERS WITH MOST COMMITS:
+	---> 2362 by QuincyLarson
+	---> 1801 by BerkeleyTrue
+	---> 1261 by sahat
+	---> 658 by terakilobyte
+	---> 382 by ltegman
+
+#2
+NAME: bootstrap
+OWNER: twbs
+�DESCRIPTION: The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+LANGUAGE: CSS
+STARS: 118770
+USERS WITH MOST COMMITS:
+	---> 8756 by mdo
+	---> 2763 by cvrebert
+	---> 1185 by fat
+	---> 762 by XhmikosR
+	---> 274 by patrickhlauke
+
+#3
+NAME: free-programming-books
+OWNER: EbookFoundation
+9DESCRIPTION: :books: Freely available programming books
+LANGUAGE: none
+STARS: 98021
+USERS WITH MOST COMMITS:
+	---> 1541 by vhf
+	---> 301 by MHM5000
+	---> 131 by alexanderfefelov
+	---> 106 by esparta
+	---> 69 by ericguirbal
+
+#4
+NAME: react
+OWNER: facebook
+fDESCRIPTION: A declarative, efficient, and flexible JavaScript library for building user interfaces.
+LANGUAGE: JavaScript
+STARS: 82638
+USERS WITH MOST COMMITS:
+	---> 1776 by zpao
+	---> 1220 by sophiebits
+	---> 744 by gaearon
+	---> 616 by sebmarkbage
+	---> 456 by jimfb
+
+#5
+NAME: tensorflow
+OWNER: tensorflow
+ODESCRIPTION: Computation using data flow graphs for scalable machine learning
+LANGUAGE: C++
+STARS: 80347
+USERS WITH MOST COMMITS:
+%	---> 7353 by tensorflower-gardener
+	---> 1023 by vrv
+	---> 949 by caisq
+	---> 853 by benoitsteiner
+	---> 554 by gunan
+
+#6
+NAME: vue
+OWNER: vuejs
+fDESCRIPTION: A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+LANGUAGE: JavaScript
+STARS: 75678
+USERS WITH MOST COMMITS:
+	---> 1938 by yyx990803
+	---> 37 by defcc
+	---> 32 by kazupon
+	---> 27 by Hanks10100
+!	---> 20 by HerringtonDarkholme
+
+#7
+NAME: awesome
+OWNER: sindresorhus
+9DESCRIPTION: :sunglasses: Curated list of awesome lists
+LANGUAGE: none
+STARS: 72796
+USERS WITH MOST COMMITS:
+	---> 256 by sindresorhus
+	---> 24 by davisonio
+	---> 12 by RichardLitt
+	---> 7 by arthurvr
+	---> 6 by AllThingsSmitty
+
+#8
+NAME: You-Dont-Know-JS
+OWNER: getify
+>DESCRIPTION: A book series on JavaScript. @YDKJS on twitter.
+LANGUAGE: none
+STARS: 71500
+USERS WITH MOST COMMITS:
+	---> 1172 by getify
+	---> 17 by machineloop
+	---> 10 by pdawyndt
+	---> 10 by 4thana
+	---> 9 by zackgao
+
+#9
+
+NAME: d3
+OWNER: d3
+hDESCRIPTION: Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+LANGUAGE: JavaScript
+STARS: 70557
+USERS WITH MOST COMMITS:
+	---> 2959 by mbostock
+	---> 776 by jasondavies
+	---> 50 by kitmonisit
+	---> 27 by 27359794
+	---> 11 by larskotthoff
+
+#10
+NAME: oh-my-zsh
+OWNER: robbyrussell
+�DESCRIPTION: A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+LANGUAGE: Shell
+STARS: 62763
+USERS WITH MOST COMMITS:
+	---> 1361 by robbyrussell
+	---> 348 by mcornella
+	---> 83 by apjanke
+	---> 48 by fred-o
+	---> 30 by ncanceill
+Execution time is 19148 ms
+"Used memory is 5.441162109375 mb
+
+;***************MOST COMMITTED REPOSITORIES***************
+
+#1
+NAME: mapd-core
+OWNER: mapd
+%DESCRIPTION: The MapD Core database
+LANGUAGE: C++
+NUMBER OF CONTRIBUTIONS: 4912
+USERS WITH MOST COMMITS:
+	---> 2533 by asuhan
+	---> 576 by andrewseidl
+	---> 351 by mapdwei
+	---> 315 by tmostak
+	---> 292 by sstewart2012
+
+#2
+NAME: nyaa
+OWNER: NyaaPantsu
+4DESCRIPTION: Nyaa.se replacement written in golang
+LANGUAGE: Go
+NUMBER OF CONTRIBUTIONS: 2903
+USERS WITH MOST COMMITS:
+	---> 853 by akuma06
+	---> 782 by Kiloutre
+	---> 186 by sfan5
+	---> 112 by MMP0
+	---> 99 by tomleb
+
+#3
+NAME: voice-web
+OWNER: mozilla
+gDESCRIPTION: Common Voice: Our responsive web, Android and iOS apps for collecting public voice data.
+LANGUAGE: TypeScript
+NUMBER OF CONTRIBUTIONS: 1364
+USERS WITH MOST COMMITS:
+	---> 738 by mikehenrty
+	---> 237 by Gregoor
+	---> 89 by gozer
+	---> 54 by kdavis-mozilla
+	---> 52 by andrenatal
+
+#4
+NAME: draft
+OWNER: Azure
+WDESCRIPTION: A tool for developers to create cloud-native applications on Kubernetes.
+LANGUAGE: Go
+NUMBER OF CONTRIBUTIONS: 868
+USERS WITH MOST COMMITS:
+	---> 550 by bacongobbler
+	---> 84 by michelleN
+	---> 40 by mboersma
+	---> 36 by vdice
+	---> 28 by fibonacci1729
+
+#5
+NAME: redux-first-router
+OWNER: faceyspacey
+NDESCRIPTION: рџЋ– seamless redux-first routing -- just dispatch actions
+LANGUAGE: JavaScript
+NUMBER OF CONTRIBUTIONS: 411
+USERS WITH MOST COMMITS:
+	---> 387 by faceyspacey
+	---> 7 by iansinnott
+	---> 2 by GuillaumeCisco
+	---> 2 by crimson-ci
+	---> 2 by chapati23
+
+#6
+NAME: event-gateway
+OWNER: serverless
+{DESCRIPTION: The Event Gateway combines both API Gateway and Pub/Sub functionality into a single event-driven experience.
+LANGUAGE: Go
+NUMBER OF CONTRIBUTIONS: 256
+USERS WITH MOST COMMITS:
+	---> 210 by mthenw
+	---> 22 by spacejam
+	---> 4 by brianneisler
+	---> 4 by rupakg
+	---> 3 by alexdebrie
+
+#7
+NAME: bookmark-archiver
+OWNER: pirate
+�DESCRIPTION: рџ—„ Save an archived copy of all websites starred using Pocket/Pinboard/Bookmarks.  Outputs browseable html.
+LANGUAGE: Python
+NUMBER OF CONTRIBUTIONS: 234
+USERS WITH MOST COMMITS:
+	---> 211 by pirate
+	---> 5 by bardisty
+	---> 3 by Miladiir
+	---> 3 by nodiscc
+	---> 2 by ilvar
+
+#8
+NAME: grabient
+OWNER: johnkorzhuk
+.DESCRIPTION: UI to generate linear-gradients
+LANGUAGE: JavaScript
+NUMBER OF CONTRIBUTIONS: 227
+USERS WITH MOST COMMITS:
+	---> 226 by johnkorzhuk
+	---> 1 by benjaminreid
+
+#9
+NAME: latexresu.me
+OWNER: saadq
+RDESCRIPTION: A simple webapp for automatically generating elegant LaTeX resumes.
+LANGUAGE: TeX
+NUMBER OF CONTRIBUTIONS: 175
+USERS WITH MOST COMMITS:
+	---> 171 by saadq
+	---> 1 by aviral1701
+	---> 1 by jacobjinkelly
+	---> 1 by RobertSandu
+	---> 1 by TsimpDim
+
+#10
+NAME: Youku-HTML5-Player
+OWNER: esterTion
+wDESCRIPTION: дёЂдёЄйЂ‚й…Ќдј?й…·зљ„з®ЂеЌ•ж?“з”Ёзљ„HTML5ж’­ж”ѕе™Ё
+LANGUAGE: JavaScript
+NUMBER OF CONTRIBUTIONS: 153
+USERS WITH MOST COMMITS:
+	---> 151 by esterTion
+	---> 2 by myfreeer
+Execution time is 49035 ms
+%Used memory is 5.622993469238281 mb
+Execution time is -96 ms
+%Used memory is 4.919303894042969 mb

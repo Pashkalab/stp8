@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testing.ContributorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-12-04T18:02:14" hostname="DESKTOP-CO2J425" time="0.014">
+  <properties/>
+  <testcase name="setContributionCount" classname="testing.ContributorTest" time="0.012"/>
+  <testcase name="getContributionCount" classname="testing.ContributorTest" time="0.0"/>
+  <testcase name="getUser" classname="testing.ContributorTest" time="0.0"/>
+  <testcase name="setUser" classname="testing.ContributorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

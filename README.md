@@ -1,4 +1,6 @@
+[![Build Status](https://travis-ci.org/Pashkalab/stp8.svg?branch=master)](https://travis-ci.org/Pashkalab/stp8)
 
+[![codecov](https://codecov.io/gh/Pashkalab/stp8/branch/master/graph/badge.svg)](https://codecov.io/gh/Pashkalab/stp8)
 
 
 
